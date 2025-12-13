@@ -15,8 +15,8 @@ Cada projeto possui:
 ## 📂 Lista de Projetos
 
 **1. Semáforo**  
-   **Descrição:** Descrição do Projeto.  
-   🔗 [Acesse o Repositório](https://github.com/viniciusfernando850/Arduino-Projects/edit/main/README.md)
+   **Descrição:** Protótipo de semáforo de trânsito.  
+   🔗 [Acesse o Repositório]([https://github.com/viniciusfernando850/Arduino-Projects/edit/main/README.md](https://github.com/viniciusfernando850/Projeto-Semaforo))
   
 <br>
   
