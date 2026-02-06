@@ -20,9 +20,27 @@ Cada projeto possui:
   
 <br>
   
-**2. Projeto 02**  
-  **Descrição:** Descrição do Projeto.  
-  🔗 [Acesse o Repositório](https://github.com/viniciusfernando850/Arduino-Projects/edit/main/README.md)
+**2. Projeto Piano**  
+  **Descrição:** Simulação de um piano com notas musicais.  
+  🔗 [Acesse o Repositório](https://github.com/viniciusfernando850/Projeto-Piano)
+
+<br>
+
+**3. Projeto Piano**  
+  **Descrição:** Protótipo simples de um sistema de alarme de segurança.  
+  🔗 [Acesse o Repositório](https://github.com/viniciusfernando850/Projeto-Alarme-de-Seguranca)
+
+<br>
+
+**4. Alarme de Segurança**  
+  **Descrição:** Protótipo simples de um sistema de alarme de segurança.  
+  🔗 [Acesse o Repositório](https://github.com/viniciusfernando850/Alarme-de-Temperatura-e-Umidade)
+
+<br>
+
+**5. Sensor de Proximidade**  
+  **Descrição:** Protótipo simples de um sistema de alarme de segurança.  
+  🔗 [Acesse o Repositório](https://github.com/viniciusfernando850/Sensor-de-Proximidade)  
 
 <br>
 <br>
