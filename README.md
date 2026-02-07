@@ -26,21 +26,27 @@ Cada projeto possui:
 
 <br>
 
-**3. Projeto Piano**  
+**3. Alarme de Segurança**  
   **Descrição:** Protótipo simples de um sistema de alarme de segurança.  
   🔗 [Acesse o Repositório](https://github.com/viniciusfernando850/Projeto-Alarme-de-Seguranca)
 
 <br>
 
-**4. Alarme de Segurança**  
-  **Descrição:** Protótipo simples de um sistema de alarme de segurança.  
+**4. Alarme de Temperatura e Umidade**  
+  **Descrição:** Protótipo de um sistema de controle de temperatura e umidade.  
   🔗 [Acesse o Repositório](https://github.com/viniciusfernando850/Alarme-de-Temperatura-e-Umidade)
 
 <br>
 
 **5. Sensor de Proximidade**  
-  **Descrição:** Protótipo simples de um sistema de alarme de segurança.  
-  🔗 [Acesse o Repositório](https://github.com/viniciusfernando850/Sensor-de-Proximidade)  
+  **Descrição:** Estudo prático do funcionamento de um sensor ultrassônico.  
+  🔗 [Acesse o Repositório](https://github.com/viniciusfernando850/Sensor-de-Proximidade)
+
+<br>
+
+**6. Garra Robótica**  
+  **Descrição:** Projeto simples de uma garra robótica.  
+  🔗 [Acesse o Repositório](https://github.com/viniciusfernando850/Projeto-Garra-Robotica)
 
 <br>
 <br>
